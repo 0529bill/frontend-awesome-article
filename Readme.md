@@ -2,9 +2,15 @@
 
 Arthur: water
 
-:star: :star: :star: Must read
-:star: :star: Recommended
+**Disclaimer: I do not own every content in this repo. Some of the content is collected from the internet. If you are the author of any of the content and you want me to remove it, please contact me**
+
+---
+
+:star: :star: :star: Must read  
+:star: :star: Recommended  
 :star: Good to know
+
+---
 
 ### 數據結構和演算法
 
