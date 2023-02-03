@@ -12,6 +12,10 @@ Arthur: water
 
 ---
 
+### 優化
+
+[Web Dev, a blog written by members from google chrome](https://web.dev/) :star: :star: :star:
+
 ### 數據結構和演算法
 
 [Tech Interview handbook](https://www.techinterviewhandbook.org/) :star: :star: :star:
@@ -22,3 +26,15 @@ Arthur: water
 ### 前端 roadMap
 
 [抖音前端 roadMap](https://juejin.cn/post/6844903830887366670#heading-33) :star:
+
+### 前端 jobs
+
+[FAANG preparation](https://www.reddit.com/r/Frontend/comments/sg3kmi/i_want_to_get_a_job_in_faang_company_as_a/) :star: :star:
+
+### 面經
+
+[一次令人窒息的百度面试](https://juejin.cn/post/7178783712363708475)
+
+### 前端職涯
+
+[前端技术砖家: 我要去哪里？- 写在我的 30 岁](https://juejin.cn/post/7118679740948430856) :star: :star:
