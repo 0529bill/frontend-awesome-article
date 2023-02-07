@@ -46,6 +46,8 @@ Arthur: water
 ### 面經
 
 [一次令人窒息的百度面试](https://juejin.cn/post/7178783712363708475)
+[2021 轉職前端工程師的海外求職 (德荷英日新) 心得 II — 找工作與面試篇](https://www.explainthis.io/zh-hant/software-engineer-note/software-engineer-career/coding-bootcamp-and-career/part2)
+[2021 轉職前端工程師的海外求職 (德荷英日新) 心得 I](https://www.explainthis.io/zh-hant/software-engineer-note/software-engineer-career/coding-bootcamp-and-career/part1)
 
 ---
 
