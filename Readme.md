@@ -56,6 +56,7 @@ Arthur: water
 ### 前端職涯
 
 [前端技术砖家: 我要去哪里？- 写在我的 30 岁](https://juejin.cn/post/7118679740948430856) :star: :star:
+[膩了人生勝利組的劇本，普通人的海外求職路 Aaron 帶你這樣走](https://media.nexf.org/overseas-job-hunting-guide-for-people-02/)
 
 ### 前端 roadMap
 
