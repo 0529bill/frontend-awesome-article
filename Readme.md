@@ -61,3 +61,7 @@ Arthur: water
 ### 前端 roadMap
 
 [抖音前端 roadMap](https://juejin.cn/post/6844903830887366670#heading-33) :star:
+
+## 其他
+
+[登高望远，一文解答 2023 年你最关心的前端热点问题](https://juejin.cn/post/7194710741427945527)
