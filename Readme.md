@@ -4,8 +4,6 @@ Arthur: water
 
 **Disclaimer: I do not own every content in this repo. Some of the content is collected from the internet. If you are the author of any of the content and you want me to remove it, please contact me**
 
----
-
 :star: :star: :star: Must read  
 :star: :star: Recommended  
 :star: Good to know
@@ -35,7 +33,13 @@ Arthur: water
 
 [React 技术揭秘](https://react.iamkasong.com/) :star: :star:
 
----
+##### React 18
+
+[React 新概念 — Server Components](https://chentsulin.medium.com/react-%E6%96%B0%E6%A6%82%E5%BF%B5-server-components-d632f9a18463)
+
+### 前端其他
+
+## [前端质量体系之纸上谈兵 - 前端技术砖家](https://juejin.cn/post/7201696941330972727)
 
 ## Jobs
 
