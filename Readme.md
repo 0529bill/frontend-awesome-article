@@ -24,6 +24,11 @@ Arthur: water
 [抖音: 前端该如何准备数据结构和算法？](https://juejin.cn/post/6844903919722692621) :star:  
 [Cracking the Coding Interview](<http://englishonlineclub.com/pdf/Cracking%20the%20Coding%20Interview%20-%20189%20Programming%20Questions%20and%20Solutions%20(6th%20Edition)%20[EnglishOnlineClub.com].pdf>) :star:
 
+### 瀏覽器知識
+
+[浏览器原理&安全 - 菜猫子 neko](https://juejin.cn/post/7168637354536599559)
+[计算机网络 - 菜猫子 neko](https://juejin.cn/post/7166870049066582053)
+
 ---
 
 ## 前端
@@ -75,3 +80,7 @@ Arthur: water
 ## 其他
 
 [登高望远，一文解答 2023 年你最关心的前端热点问题](https://juejin.cn/post/7194710741427945527)
+
+## 前端資安 Security
+
+[Content Security Policy](https://web.dev/csp/)
