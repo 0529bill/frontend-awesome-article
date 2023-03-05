@@ -33,6 +33,10 @@ Arthur: water
 
 ## 前端
 
+### Javascript/Typescript
+
+[2023 前端面试真题之 JS 篇](https://juejin.cn/post/7202904269535887418)
+
 ### 前端優化
 
 [Web Dev, a blog written by members from google chrome](https://web.dev/) :star: :star: :star:
