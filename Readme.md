@@ -56,12 +56,14 @@ Arthur: water
 ### 前端測試
 
 [How to add testing to an existing project - Kent C. Dodds](https://kentcdodds.com/blog/how-to-add-testing-to-an-existing-project)
+[使用 Vitest + React Testing Library 进行单元测试](https://juejin.cn/post/7202901118450434103)
 
 ### 前端其他
 
-## [前端质量体系之纸上谈兵 - 前端技术砖家](https://juejin.cn/post/7201696941330972727)
+[前端质量体系之纸上谈兵 - 前端技术砖家](https://juejin.cn/post/7201696941330972727)
+[Migrating a large, open-source React application to Next.js and Vercel](https://vercel.com/blog/migrating-a-large-open-source-react-application-to-next-js-and-vercel)
 
-## [webpack, git](https://juejin.cn/post/7196630860811075642)
+[webpack, git](https://juejin.cn/post/7196630860811075642)
 
 ## Jobs
 
