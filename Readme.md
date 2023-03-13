@@ -12,8 +12,8 @@ Arthur: water
 
 ## 優質 blog
 
-[MDH weekly](https://mdhweekly.com/)
-[Web dev](https://web.dev/blog/)
+[MDH weekly](https://mdhweekly.com/) :star: :star: :star:
+[Web dev](https://web.dev/blog/) :star: :star: :star:
 
 ## computer science
 
@@ -35,7 +35,9 @@ Arthur: water
 
 ### Javascript/Typescript
 
+[Map and Set](https://www.builder.io/blog/maps#key-ordering)
 [2023 前端面试真题之 JS 篇](https://juejin.cn/post/7202904269535887418)
+[ECMAscript JS version](https://www.w3schools.com/js/js_versions.asp)
 
 ### 前端優化
 
@@ -59,6 +61,8 @@ Arthur: water
 
 ## [前端质量体系之纸上谈兵 - 前端技术砖家](https://juejin.cn/post/7201696941330972727)
 
+## [webpack, git](https://juejin.cn/post/7196630860811075642)
+
 ## Jobs
 
 ### 前端 jobs
@@ -75,11 +79,12 @@ Arthur: water
 
 ## 前端職涯
 
-[前端小白半年准备进大厂【亲述非广告】- 前端技术砖家](https://juejin.cn/post/7139463200285835301)
-[前端技术砖家: 我要去哪里？- 写在我的 30 岁](https://juejin.cn/post/7118679740948430856) :star: :star:
-[膩了人生勝利組的劇本，普通人的海外求職路 Aaron 帶你這樣走](https://media.nexf.org/overseas-job-hunting-guide-for-people-02/)
-[抖音前端 roadMap](https://juejin.cn/post/6844903830887366670#heading-33) :star:
+[前端小白半年准备进大厂【亲述非广告】- 前端技术砖家](https://juejin.cn/post/7139463200285835301)  
+[前端技术砖家: 我要去哪里？- 写在我的 30 岁](https://juejin.cn/post/7118679740948430856) :star: :star:  
+[膩了人生勝利組的劇本，普通人的海外求職路 Aaron 帶你這樣走](https://media.nexf.org/overseas-job-hunting-guide-for-people-02/)  
+[抖音前端 roadMap](https://juejin.cn/post/6844903830887366670#heading-33) :star:  
 [在阿里做前端程序员，我是这样规划的](https://juejin.cn/post/7132745736696889351)
+[面試薪水談判 - Shubo 的程式開發筆記](https://shubo.io/salary-negotiation/)
 
 ## 其他
 
