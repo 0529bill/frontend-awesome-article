@@ -67,11 +67,10 @@ Arthur: water
 
 ## Jobs
 
-### 前端 jobs
+### 面經
 
 [FAANG preparation](https://www.reddit.com/r/Frontend/comments/sg3kmi/i_want_to_get_a_job_in_faang_company_as_a/) :star: :star:
-
-### 面經
+[备战大厂的心路历程，别再盲目刷题了](https://juejin.cn/post/7140207926975266830)
 
 [一次令人窒息的百度面试](https://juejin.cn/post/7178783712363708475)
 [2021 轉職前端工程師的海外求職 (德荷英日新) 心得 II — 找工作與面試篇](https://www.explainthis.io/zh-hant/software-engineer-note/software-engineer-career/coding-bootcamp-and-career/part2)
