@@ -65,6 +65,10 @@ Arthur: water
 
 [webpack, git](https://juejin.cn/post/7196630860811075642)
 
+## 架構
+
+[該用 Monorepo 嗎？比較 Monolith vs Multi-Repo vs Monorepo - Summer](https://www.cythilya.tw/2023/01/28/monolith-vs-multi-repo-vs-mono-repo/)
+
 ## Jobs
 
 ### 面經
