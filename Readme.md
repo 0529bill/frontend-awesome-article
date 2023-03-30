@@ -14,6 +14,7 @@ Arthur: water
 
 [MDH weekly](https://mdhweekly.com/) :star: :star: :star:
 [Web dev](https://web.dev/blog/) :star: :star: :star:
+[React blog](https://react.dev/blog)
 
 ## computer science
 
