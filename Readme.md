@@ -10,7 +10,7 @@ Arthur: water
 
 ---
 
-## 優質 blog
+## 每週必讀優質 blog
 
 [MDH weekly](https://mdhweekly.com/) :star: :star: :star:
 [Web dev](https://web.dev/blog/) :star: :star: :star:
@@ -37,6 +37,7 @@ Arthur: water
 
 ### Javascript/Typescript
 
+[ES6 入门教程 - 阮一峰](https://es6.ruanyifeng.com/)
 [Map and Set](https://www.builder.io/blog/maps#key-ordering)
 [2023 前端面试真题之 JS 篇](https://juejin.cn/post/7202904269535887418)
 [ECMAscript JS version](https://www.w3schools.com/js/js_versions.asp)
