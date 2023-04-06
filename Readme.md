@@ -10,11 +10,12 @@ Arthur: water
 
 ---
 
-## 每週必讀優質 blog
+## 必讀優質 blog/website
 
 [MDH weekly](https://mdhweekly.com/) :star: :star: :star:
 [Web dev](https://web.dev/blog/) :star: :star: :star:
-[React blog](https://react.dev/blog)
+[JSInfo](https://javascript.info/) :star: :star: :star:
+[React blog](https://react.dev/blog) :star: :star: :star:
 
 ## computer science
 
